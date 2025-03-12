@@ -3,7 +3,7 @@ requires = ["setuptools"]
 
 [project]
 name = "sparkfun_qwiic_cap1203"
-version = "0.0.1"
+version = "2.0.0"
 description = "SparkFun Electronics Qwiic CAP1203"
 readme = "DESCRIPTION.rst"
 

@@ -1,4 +1,4 @@
-Qwiic <Example Package Title>
+Qwiic CAP1203 Python Package
 =============================================
 
-This is a short description of this package.
+This is the Python package for the SparkFun Qwiic CAP1203.
